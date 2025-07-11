@@ -1,0 +1,14 @@
+[
+  {
+    "id": "user1",
+    "username": "saumitr",
+    "password": "$2a$10$32y3RF3ig4B9zoXjLQZeC.z0Ln9m2JpjX21TRe5MrMLWmtFNQWVd6",
+    "name": "Saumitr"
+  },
+  {
+    "id": "user2",
+    "username": "anushka",
+    "password": "$2a$10$DNYRVBI0lX1tkqqF6vZMVuEUZVtsLLdCU4qKCphsX8Zmzbg4g5okq",
+    "name": "Anushka"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "user1": {
+    "currentLives": 5,
+    "maxLives": 5,
+    "lastRefresh": "2025-07-09T18:36:36.581Z",
+    "pendingRequests": [],
+    "sharedLives": 0,
+    "name": "Saumitr"
+  },
+  "user2": {
+    "currentLives": 10,
+    "maxLives": 5,
+    "lastRefresh": "2025-07-09T18:36:36.581Z",
+    "pendingRequests": [],
+    "sharedLives": 0,
+    "name": "Anushka",
+    "boosterActive": false,
+    "boosterStart": "2025-07-10T17:36:10.609Z",
+    "boosterNoes": 5
+  }
+}
