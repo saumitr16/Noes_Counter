@@ -9,7 +9,7 @@
   },
   "user2": {
     "currentLives": 5,
-    "maxLives": 5,
+    "maxLives": 10,
     "lastRefresh": "2025-07-09T18:36:36.581Z",
     "pendingRequests": [],
     "sharedLives": 0,
