@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Noes_Counter/static/css/main.5477f440.css",
-    "main.js": "/Noes_Counter/static/js/main.d412935e.js",
+    "main.js": "/Noes_Counter/static/js/main.51d76c06.js",
     "index.html": "/Noes_Counter/index.html",
     "main.5477f440.css.map": "/Noes_Counter/static/css/main.5477f440.css.map",
-    "main.d412935e.js.map": "/Noes_Counter/static/js/main.d412935e.js.map"
+    "main.51d76c06.js.map": "/Noes_Counter/static/js/main.51d76c06.js.map"
   },
   "entrypoints": [
     "static/css/main.5477f440.css",
-    "static/js/main.d412935e.js"
+    "static/js/main.51d76c06.js"
   ]
 }
