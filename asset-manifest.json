@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Noes_Counter/static/css/main.5477f440.css",
+    "main.js": "/Noes_Counter/static/js/main.d412935e.js",
+    "index.html": "/Noes_Counter/index.html",
+    "main.5477f440.css.map": "/Noes_Counter/static/css/main.5477f440.css.map",
+    "main.d412935e.js.map": "/Noes_Counter/static/js/main.d412935e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5477f440.css",
+    "static/js/main.d412935e.js"
+  ]
+}
