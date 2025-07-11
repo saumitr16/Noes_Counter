@@ -30,7 +30,7 @@ const getInitialLivesData = () => {
       name: 'Saumitr'
     },
     user2: {
-      currentLives: 10,
+      currentLives: 5,
       maxLives: 10,
       lastRefresh: new Date().toISOString(),
       pendingRequests: [],
