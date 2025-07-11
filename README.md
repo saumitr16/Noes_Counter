@@ -67,8 +67,8 @@ A secure web application for two partners to manage their lives with real-time s
 4. **Access the application:**
    - Open your browser and go to `http://localhost:3000`
        - Use the default credentials:
-      - **Saumitr**: username=`saumitr`, password=`password1`
-      - **Anushka**: username=`anushka`, password=`password2`
+      - **Saumitr**: username=`user1`, password=`********`
+      - **Anushka**: username=`user2`, password=`********`
 
 ## Configuration
 
